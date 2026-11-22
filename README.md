@@ -1,7 +1,7 @@
 # ПринтМедиа · концепт ClientSpace
 
-- [Демо сайта](https://userdetect.github.io/clientspace-print-demos/demos/printmedia/)
-- [Демо CRM](https://userdetect.github.io/clientspace-print-demos/demos/printmedia/crm.html)
+- [Демо сайта](https://userdetect.github.io/clientspace-print-printmedia/)
+- [Демо CRM](https://userdetect.github.io/clientspace-print-printmedia/crm.html)
 - [Действующий сайт](https://xn----8sbldndzgqky.com/)
 
 Форма и CRM используют IndexedDB. Созданные в демо заявки и файлы хранятся в браузере. Сравнивать форму и CRM нужно в одном браузерном профиле.
